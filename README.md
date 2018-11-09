@@ -1,12 +1,12 @@
 # Keyword Extractor
 
 A simple [NPM package](https://npmjs.org/package/keyword-extractor) for extracting _keywords_ from a string by
-removing stopwords.
+removing stopwords. With norwegian language
 
 ## Installation
 
 ```sh
-$ npm install keyword-extractor
+$ npm install git+https://github.com/alexpassss/keyword-extractor.git
 ```
 
 ## Running tests
